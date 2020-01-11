@@ -21,8 +21,8 @@ body {
   position: relative;
   overflow: hidden;
   width: 100%;
-  height: 700px;
   border: 0px;
+  height: 850px;
 }
 
 .offcanvas #page {
@@ -294,7 +294,6 @@ form label {
   /* words */
 }
 
-#fh5co-footer,
 #fh5co-couple,
 .fh5co-section {
   padding: 7em 0;
@@ -302,7 +301,6 @@ form label {
 }
 
 @media screen and (max-width: 768px) {
-  #fh5co-footer,
   #fh5co-couple,
   .fh5co-section {
     padding: 3em 0;
