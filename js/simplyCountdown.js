@@ -122,10 +122,10 @@
                 minutes: 0,
                 seconds: 0,
                 words: {
-                    days: 'nap',
-                    hours: 'óra',
-                    minutes: 'perc',
-                    seconds: 'mp',
+                    days: 'D',
+                    hours: 'H',
+                    minutes: 'M',
+                    seconds: 'S',
                     pluralLetter: ''
                 },
                 plural: true,
